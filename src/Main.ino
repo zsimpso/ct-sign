@@ -49,8 +49,8 @@ void loop() {
 
   pulseWhite(5); 
 
-  // fullWhite();
-  // delay(2000);
+  fullWhite();
+  delay(2000);
 
   rainbowFade2White(3,3,1);
 
